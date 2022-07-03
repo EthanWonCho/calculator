@@ -1,0 +1,8 @@
+https://down.edunet4u.net/KEDNCM/SynapConv/skin_v2021/doc.html?fn=8.pdf&rs=/KEDNCM/preview2021/fs_a0000-2017-0412-0000-000000000008/&scf=/KEDNCM/NEDU/CURRICULUM/sub2015/elemnt/num74&lfn=%EB%B3%84%EC%B1%858_%EC%88%98%ED%95%99%EA%B3%BC+%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%28%EC%A0%9C2015-74%ED%98%B8%29.pdf&ttl=%EB%B3%84%EC%B1%858_%EC%88%98%ED%95%99%EA%B3%BC+%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%28%EC%A0%9C2015-74%ED%98%B8%29
+
+자연수 분수 소수로 바꾸는, 계산하는 계산기
+단위 변환기
+올림 버림 반올림
+정수 유리수 무리수 실수 허수
+식 간단히 하기
+
