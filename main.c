@@ -78,7 +78,7 @@
 int main(void){
 	int a;
 	system("clear");
-	printf("program code >> ")
+	printf("program code >> ");
 	scanf("%d", &a);
 	switch(a){
 		case 1:

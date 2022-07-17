@@ -1,5 +1,3 @@
-#ifndef HEADER_H
-#define HEADER_H 1
 void prime(void){
     int type;
     printf("prime: type of calculation >> ");
@@ -19,6 +17,3 @@ void prime(void){
         break;
     }
 }
-
-
-#endif
