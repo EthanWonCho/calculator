@@ -17,3 +17,7 @@ void prime(void){
         break;
     }
 }
+void cmp_size(void){
+    float a, b;
+    printf("cmp_size: type of calculation >> ");
+}

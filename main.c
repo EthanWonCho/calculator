@@ -84,6 +84,8 @@ int main(void){
 		case 1:
 		prime();
 		break;
+		case 2:
+		cmp_size();
 		default:
 		main();
 	}
