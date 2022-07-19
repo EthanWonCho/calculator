@@ -83,6 +83,7 @@ int main(void){
 	switch(a){
 		case 1:
 		prime();
+		main();
 		break;
 		default:
 		main();

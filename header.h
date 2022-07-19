@@ -4,8 +4,8 @@ void prime(void){
     scanf("%d", &type);
     switch (type)
     {
-    case 1:
-        printf("print prime: limit >> ");
+    case 1://print everything till limit
+        printf("prime: limit >> ");
         int lim;
         scanf("%d", &lim);
         if(lim < 1000){
@@ -21,8 +21,15 @@ void prime(void){
                     }
                 }
             }
+            for(int i=1;i<=lim;i++){
+                if(isp[i])
+                    printf("%d ", i);
+            }
+            printf("\nprime: end\n");
+            
         }else{
-            printf("limit of the limit is 1000.\n");
+            printf("limit is 1000.\n");
+            prime();
         }
             /*
             public class Prime {
